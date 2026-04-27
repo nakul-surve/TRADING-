@@ -42,19 +42,7 @@ Your stop loss = Their entry.
 📈 VISUAL EXAMPLE
 Liquidity Sweep Below Support
 
-Price chart looks like this:
 
-$89 ─────────────────────────
-$88 ──────╮
-$87 ──────╯╲
-$86 ────────╲────╮
-$85 ─────────────╯╲          ← Support level
-$84.50 ──────────── ╲        ← EVERYONE'S STOPS HERE
-$84.20 ──────────────╲╱      ← SWEEP HAPPENS HERE
-$85 ──────────────────╲╱╲    ← Price reverses UP fast
-$86 ───────────────────────╱
-$87 ──────────────────────╱
-$88 ─────────────────────╱   ← Big move up begins
 
 What happened:
 1. Price fell to $85 support
@@ -279,3 +267,41 @@ happening in front of us!
 
 -----
 
+📋 CHEAT SHEET — QUICK REFERENCE
+
+LIQUIDITY SWEEP ENTRY SYSTEM:
+
+FIND:
+→ Obvious support or resistance
+→ Equal highs or equal lows
+→ Previous day high or low
+
+WAIT FOR:
+→ Sharp spike BEYOND that level
+→ Long wick candle at that level
+→ Volume spike during sweep
+
+CONFIRM:
+→ Green candle closes back above level
+→ Volume on confirmation candle healthy
+→ BTC stable or bullish
+
+ENTER:
+→ Above high of confirmation candle
+→ Immediately when candle closes
+
+STOP LOSS:
+→ Below the sweep low
+→ Not below support — BELOW SWEEP
+
+TARGET:
+→ Next resistance level
+→ Minimum 2x your stop loss distance
+
+SKIP IF:
+→ BTC is falling hard
+→ No clear confirmation candle
+→ Sweep is too far from support
+→ Volume not confirming
+
+--------------
