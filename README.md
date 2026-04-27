@@ -101,6 +101,7 @@ Then immediately closing back above
 
 This wick = The sweep
 
+-----
 
 Step 2 — Wait For Rejection Candle
 
@@ -120,4 +121,161 @@ Candle pattern looks like:
 This = "Bullish engulfing after sweep"
 Powerful buy signal ✅
 
+------
+
+Step 3 — Enter On Confirmation
+
+ONLY after seeing rejection candle:
+
+Entry: Above the high of confirmation candle
+Stop Loss: Below the sweep low
+           (The lowest point of the wick)
+Target: Previous resistance level
+        OR 2x your stop loss distance
+
+Example with SOL:
+Support: $85.20
+Sweep low: $84.30 (wick goes here)
+Confirmation candle closes: $85.40
+
+Entry: $85.50
+Stop Loss: $84.10 (below sweep)
+Target: $89.00 (previous resistance)
+
+Risk: $1.40
+Reward: $3.50
+Risk/Reward = 1:2.5 ✅ Excellent
+
+-----
+
+🔴 HOW TO SPOT SWEEPS ON BINANCE
+Look For These Patterns
+
+Pattern 1 — Wick Sweep
+On 15min chart:
+Candle has very long bottom wick
+Wick goes well below support
+Body of candle closes above support
+= Classic sweep candle ✅
+
+Pattern 2 — Equal Lows Sweep
+Chart shows two bottoms at same price
+$85.20 and $85.20 (equal lows)
+Price sweeps below both
+= Double bottom sweep ✅
+Very powerful setup
+
+Pattern 3 — Morning Low Sweep
+Price makes low at 9 AM
+Comes back to test same low at 7 PM
+Briefly breaks below
+Immediately bounces
+= Time-based sweep ✅
+
+----
+
+⚠️ COMMON MISTAKES TO AVOID
+
+
+Mistake 1 — Buying During Sweep
+
+❌ WRONG:
+Price breaks below $85.20
+You immediately buy thinking bounce
+
+Why wrong:
+Sweep can go lower before reversing
+You catch falling knife
+Stop loss hits before reversal
+
+✅ RIGHT:
+Wait for sweep to finish
+Wait for green confirmation candle
+THEN buy above confirmation candle high
+
+----
+
+Mistake 2 — Wrong Stop Loss Placement
+❌ WRONG:
+Put stop loss at support level $85.20
+Price sweeps to $84.30
+Your stop hits at $85.20
+Price reverses to $89
+You missed entire move
+
+✅ RIGHT:
+Put stop loss BELOW sweep low
+At $84.10 (below $84.30 sweep)
+Sweep happens but doesn't hit your stop
+You're still in trade for full move
+
+----
+
+Mistake 3 — Chasing After Confirmation
+
+❌ WRONG:
+Confirmation candle closes at $85.40
+You wait to see if it goes higher
+By time you buy it's at $86.50
+Stop loss still at $84.10
+Risk/reward ratio ruined
+
+✅ RIGHT:
+Enter immediately when confirmation
+candle closes
+Don't wait for more proof
+The confirmation IS the proof
+
+----
+
+🎯 PRACTICE EXERCISE FOR TODAY
+
+Do This Right Now
+
+Step 1:
+Open SOL/USDT on Binance
+Switch to 1H chart
+Look at the last 7 days
+
+Step 2:
+Find the $85.20 low we watched
+Zoom in on that area
+Do you see a wick below $85.20?
+Did price immediately bounce?
+
+That was a liquidity sweep
+You watched it happen live!
+
+Step 3:
+Open BTC 1H chart
+Find any obvious support level
+Look if price briefly broke below
+Then immediately came back up
+
+Count how many sweeps
+you can find in last 7 days
+
+🔥 ADVANCED VERSION — SWEEP + BTC CONFLUENCE
+
+Most powerful setup combines:
+
+1. BTC is bullish or stable ✅
+2. Altcoin shows liquidity sweep ✅
+3. Sweep happens at KEY support ✅
+4. Confirmation candle forms ✅
+5. Volume spikes on confirmation ✅
+6. RSI was oversold during sweep ✅
+
+ALL 6 present = Highest probability trade
+You've seen all 6 in our analysis already!
+
+Remember:
+ETH RSI hit 28 (oversold) ✅
+While BTC was at $77,174 (sweep low) ✅
+Then both bounced ✅
+
+That was a REAL liquidity sweep
+happening in front of us!
+
+-----
 
