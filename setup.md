@@ -82,3 +82,47 @@ T3: Let 20% run
 Move stop to breakeven after T1
 
 -----------------
+
+LIQUIDITY SWEEP MASTER CHECKLIST:
+
+PREPARATION:
+□ Mark equal highs (BSL)
+□ Mark equal lows (SSL)
+□ Mark previous day high/low
+□ Note HTF (daily) trend direction
+□ Check BTC trend
+
+SWEEP IDENTIFICATION:
+□ Price breaks obvious level
+□ Wick extends beyond level
+□ Returns within 1-3 candles
+□ Creates long wick on candle
+
+CONFIRMATION:
+□ Green candle closes above level
+□ Volume increasing ✅
+□ RSI was below 35 during sweep
+□ BTC stable or recovering
+□ Held above level 15-30 mins
+□ MACD turning positive
+
+ENTRY:
+□ Enter above confirmation candle high
+□ Stop below sweep wick (not level)
+□ Target at next liquidity pool
+□ Risk/Reward minimum 1:2
+
+MANAGEMENT:
+□ Take 40% at Target 1
+□ Move stop to breakeven
+□ Take 40% at Target 2
+□ Let 20% run to Target 3
+□ Never move stop further away
+
+SKIP IF:
+□ BTC falling hard
+□ No volume on confirmation
+□ Entry too far from swept level
+□ Risk/Reward below 1:2
+□ Already missed entry by 2%+
+
